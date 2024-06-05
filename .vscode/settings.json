@@ -6,7 +6,7 @@
             "-f",
             "images/input/image.jpeg",
             "-c",
-            "helloworld"
+            "dimension"
         ],
         "cwd": "${workspaceFolder}"
     },
